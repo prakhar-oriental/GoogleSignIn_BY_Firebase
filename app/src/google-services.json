@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "984766980433",
+    "project_id": "exception-5d204",
+    "storage_bucket": "exception-5d204.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:984766980433:android:9a86145d48f39261013370",
+        "android_client_info": {
+          "package_name": "com.example.googleexception"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "984766980433-ds7gmnqg4a2u1bjvkqu1jseu5mlcourv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC1vyeCI5Dw5VuBRmE4mMXE9ztJQuQ62ic"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "984766980433-ds7gmnqg4a2u1bjvkqu1jseu5mlcourv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
